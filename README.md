@@ -32,7 +32,7 @@ and product work.
 - [ligatrix-cli](https://github.com/Ligatrix/ligatrix-cli) -
   a command-line helper for project notes, checks, and handoffs.
 - [ligatrix-evals](https://github.com/Ligatrix/ligatrix-evals) -
-  small check patterns for AI-assisted and automated workflows.
+  check patterns for automated intake and review workflows.
 - [ligatrix-integrations](https://github.com/Ligatrix/ligatrix-integrations) -
   data shapes and normalizers for workflow intake.
 - [ligatrix-security-toolkit](https://github.com/Ligatrix/ligatrix-security-toolkit) -
@@ -42,7 +42,7 @@ and product work.
 - [ligatrix-methodology](https://github.com/Ligatrix/ligatrix-methodology) -
   how we define, scope, deliver, verify, and hand off work.
 - [ligatrix-system-blueprints](https://github.com/Ligatrix/ligatrix-system-blueprints) -
-  reference patterns for practical business systems.
+  reference patterns for internal tools and workflow systems.
 - [ligatrix-agent-workbench](https://github.com/Ligatrix/ligatrix-agent-workbench) -
   task plans and operating patterns for assisted delivery work.
 - [ligatrix-evidence-kit](https://github.com/Ligatrix/ligatrix-evidence-kit) -
@@ -50,7 +50,7 @@ and product work.
 - [ligatrix-design-system](https://github.com/Ligatrix/ligatrix-design-system) -
   foundations and component notes for durable interfaces.
 - [ligatrix-ai-governance-checklists](https://github.com/Ligatrix/ligatrix-ai-governance-checklists) -
-  readiness, release, and safety checklists for AI-assisted work.
+  readiness, release, and safety checklists for AI-assisted workflows.
 
 ## What Stays Private
 
