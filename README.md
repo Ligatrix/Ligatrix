@@ -11,6 +11,18 @@ layers, data maps, and governed delivery checkpoints.
 This GitHub profile keeps public, reusable material separate from private client
 and product work.
 
+- [ligatrix-starter-kit](https://github.com/Ligatrix/ligatrix-starter-kit) -
+  a runnable dependency-free control-room starter app.
+- [ligatrix-cli](https://github.com/Ligatrix/ligatrix-cli) -
+  a small command-line tool for project contracts, evidence packs, and handoffs.
+- [ligatrix-evals](https://github.com/Ligatrix/ligatrix-evals) -
+  deterministic evaluation examples for AI-assisted workflows.
+- [ligatrix-integrations](https://github.com/Ligatrix/ligatrix-integrations) -
+  schemas and normalizers for workflow intake.
+- [ligatrix-security-toolkit](https://github.com/Ligatrix/ligatrix-security-toolkit) -
+  lightweight public-safety checks before publishing.
+- [ligatrix-llms-docs](https://github.com/Ligatrix/ligatrix-llms-docs) -
+  AI-readable public context and repository boundaries.
 - [ligatrix-methodology](https://github.com/Ligatrix/ligatrix-methodology) -
   how we define, scope, deliver, verify, and hand off work.
 - [ligatrix-system-blueprints](https://github.com/Ligatrix/ligatrix-system-blueprints) -
@@ -44,4 +56,3 @@ Every useful system needs:
 - a handoff that another operator can use later.
 
 That is the operating standard behind the public repositories pinned here.
-
