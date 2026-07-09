@@ -13,6 +13,18 @@ and product work.
 
 - [ligatrix-starter-kit](https://github.com/Ligatrix/ligatrix-starter-kit) -
   a runnable dependency-free control-room starter app.
+- [ligatrix-sdk](https://github.com/Ligatrix/ligatrix-sdk) -
+  dependency-free SDK shapes for contracts, workflow events, evidence, and handoffs.
+- [ligatrix-ui](https://github.com/Ligatrix/ligatrix-ui) -
+  reusable UI helpers for operational interfaces.
+- [ligatrix-agent-runtime](https://github.com/Ligatrix/ligatrix-agent-runtime) -
+  deterministic runtime for bounded agent workflows.
+- [ligatrix-mcp-servers](https://github.com/Ligatrix/ligatrix-mcp-servers) -
+  public MCP-style server examples for evidence and handoffs.
+- [ligatrix-deploy-templates](https://github.com/Ligatrix/ligatrix-deploy-templates) -
+  Docker, Compose, Nginx, and deployment checklist templates.
+- [ligatrix-cookbook](https://github.com/Ligatrix/ligatrix-cookbook) -
+  reusable recipes for onboarding, approval, AI triage, and dashboards.
 - [ligatrix-cli](https://github.com/Ligatrix/ligatrix-cli) -
   a small command-line tool for project contracts, evidence packs, and handoffs.
 - [ligatrix-evals](https://github.com/Ligatrix/ligatrix-evals) -
