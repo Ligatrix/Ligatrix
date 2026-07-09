@@ -1,10 +1,14 @@
 # Ligatrix
 
-Ligatrix builds owned software systems for businesses under AI pressure.
+Ligatrix builds custom software for teams that need better tools.
 
-We focus on practical systems that a company can operate, understand, and keep:
-internal portals, workflow tools, AI-assisted operations, dashboards, automation
-layers, data maps, and governed delivery checkpoints.
+Most of our work starts with a simple problem: a company has real work happening
+across spreadsheets, inboxes, dashboards, documents, and tools that do not quite
+fit together.
+
+We turn that into practical software: internal tools, workflow systems,
+dashboards, portals, integrations, lightweight automation, and clear delivery
+notes that another person can pick up later.
 
 ## What We Publish
 
@@ -12,59 +16,59 @@ This GitHub profile keeps public, reusable material separate from private client
 and product work.
 
 - [ligatrix-starter-kit](https://github.com/Ligatrix/ligatrix-starter-kit) -
-  a runnable dependency-free control-room starter app.
+  a small starter app for an internal operations tool.
 - [ligatrix-sdk](https://github.com/Ligatrix/ligatrix-sdk) -
-  dependency-free SDK shapes for contracts, workflow events, evidence, and handoffs.
+  shared records for projects, workflow events, checks, and delivery notes.
 - [ligatrix-ui](https://github.com/Ligatrix/ligatrix-ui) -
-  reusable UI helpers for operational interfaces.
+  reusable UI pieces for internal tools and operations dashboards.
 - [ligatrix-agent-runtime](https://github.com/Ligatrix/ligatrix-agent-runtime) -
-  deterministic runtime for bounded agent workflows.
+  a small workflow runner for repeatable task flows and review steps.
 - [ligatrix-mcp-servers](https://github.com/Ligatrix/ligatrix-mcp-servers) -
-  public MCP-style server examples for evidence and handoffs.
+  example tool servers for project notes and review checkpoints.
 - [ligatrix-deploy-templates](https://github.com/Ligatrix/ligatrix-deploy-templates) -
-  Docker, Compose, Nginx, and deployment checklist templates.
+  simple deployment templates for static apps and internal tools.
 - [ligatrix-cookbook](https://github.com/Ligatrix/ligatrix-cookbook) -
-  reusable recipes for onboarding, approval, AI triage, and dashboards.
+  practical recipes for common business workflows.
 - [ligatrix-cli](https://github.com/Ligatrix/ligatrix-cli) -
-  a small command-line tool for project contracts, evidence packs, and handoffs.
+  a command-line helper for project notes, checks, and handoffs.
 - [ligatrix-evals](https://github.com/Ligatrix/ligatrix-evals) -
-  deterministic evaluation examples for AI-assisted workflows.
+  small check patterns for AI-assisted and automated workflows.
 - [ligatrix-integrations](https://github.com/Ligatrix/ligatrix-integrations) -
-  schemas and normalizers for workflow intake.
+  data shapes and normalizers for workflow intake.
 - [ligatrix-security-toolkit](https://github.com/Ligatrix/ligatrix-security-toolkit) -
-  lightweight public-safety checks before publishing.
+  lightweight checks before publishing public examples.
 - [ligatrix-llms-docs](https://github.com/Ligatrix/ligatrix-llms-docs) -
-  AI-readable public context and repository boundaries.
+  public context for how the repositories fit together.
 - [ligatrix-methodology](https://github.com/Ligatrix/ligatrix-methodology) -
   how we define, scope, deliver, verify, and hand off work.
 - [ligatrix-system-blueprints](https://github.com/Ligatrix/ligatrix-system-blueprints) -
-  reference patterns for owned business systems.
+  reference patterns for practical business systems.
 - [ligatrix-agent-workbench](https://github.com/Ligatrix/ligatrix-agent-workbench) -
-  task contracts and operating patterns for AI-assisted delivery.
+  task plans and operating patterns for assisted delivery work.
 - [ligatrix-evidence-kit](https://github.com/Ligatrix/ligatrix-evidence-kit) -
-  templates for acceptance evidence, checks, and handoffs.
+  templates for acceptance notes, checks, and handoffs.
 - [ligatrix-design-system](https://github.com/Ligatrix/ligatrix-design-system) -
-  foundations and component-spec language for durable interfaces.
+  foundations and component notes for durable interfaces.
 - [ligatrix-ai-governance-checklists](https://github.com/Ligatrix/ligatrix-ai-governance-checklists) -
-  lightweight readiness, release, and safety gates for AI work.
+  readiness, release, and safety checklists for AI-assisted work.
 
 ## What Stays Private
 
 Client implementations, recovered checkpoint repositories, production source,
 credentials, private briefs, and unreleased product work stay private.
 
-The public surface is here to show how Ligatrix works without exposing work that
-belongs to clients or active internal products.
+The public surface is here to show how Ligatrix works without exposing client
+work or active internal product code.
 
 ## Working Standard
 
 Every useful system needs:
 
 - a clear business problem;
-- a source-of-truth map;
+- a map of where the work actually happens;
 - defined users and workflows;
-- explicit acceptance criteria;
-- real verification evidence;
+- clear acceptance criteria;
+- proof that the important parts were checked;
 - a handoff that another operator can use later.
 
 That is the operating standard behind the public repositories pinned here.
