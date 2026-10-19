@@ -39,18 +39,6 @@ and product work.
   lightweight checks before publishing public examples.
 - [ligatrix-llms-docs](https://github.com/Ligatrix/ligatrix-llms-docs) -
   public context for how the repositories fit together.
-- [ligatrix-methodology](https://github.com/Ligatrix/ligatrix-methodology) -
-  how we define, scope, deliver, verify, and hand off work.
-- [ligatrix-system-blueprints](https://github.com/Ligatrix/ligatrix-system-blueprints) -
-  reference patterns for internal tools and workflow systems.
-- [ligatrix-agent-workbench](https://github.com/Ligatrix/ligatrix-agent-workbench) -
-  task plans and operating patterns for assisted delivery work.
-- [ligatrix-evidence-kit](https://github.com/Ligatrix/ligatrix-evidence-kit) -
-  templates for acceptance notes, checks, and handoffs.
-- [ligatrix-design-system](https://github.com/Ligatrix/ligatrix-design-system) -
-  foundations and component notes for durable interfaces.
-- [ligatrix-ai-governance-checklists](https://github.com/Ligatrix/ligatrix-ai-governance-checklists) -
-  readiness, release, and safety checklists for AI-assisted workflows.
 
 ## What Stays Private
 
